@@ -1,0 +1,5 @@
+SpamDetector\ControlFlow.class
+SpamDetector\SpamAppConfig.class
+SpamDetector\SimpleDetector.class
+SpamDetector\SpamDetector.class
+SpamDetector\SpamDetectorApplication.class
